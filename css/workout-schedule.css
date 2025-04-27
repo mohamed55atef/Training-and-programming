@@ -1,0 +1,10 @@
+/**
+ * أنماط خاصة بصفحة جدول التمارين
+ */
+
+/* استيراد الأجزاء الخمسة من الملف */
+@import url('workout-schedule/part1.css');
+@import url('workout-schedule/part2.css');
+@import url('workout-schedule/part3.css');
+@import url('workout-schedule/part4.css');
+@import url('workout-schedule/part5.css');
